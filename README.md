@@ -3,5 +3,5 @@
 ## 一键脚本地址
 
 ```shell
-## wget -N --no-check-certificate https://gitlab.com/Misaka-blog/tuic-script/-/raw/main/tuic.sh && bash tuic.sh
+wget -N --no-check-certificate https://github.com/whoisec/tuic/-/raw/main/tuic.sh && bash tuic.sh
 ```
